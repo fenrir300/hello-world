@@ -10,4 +10,4 @@ I | need | to learn how to use github
 
 I don't speak englisch. if something anoys you. ~~pleas~~ ignor this.
 
-![alt text](https://github.com/fenrir300/hello-world/blob/gitexperiment/gitexperiment.png)
+![alt text](https://github.com/fenrir300/hello-world/blob/master/gitexperiment.png)
